@@ -1,4 +1,4 @@
-# Real-Time Log Analytics & Anomaly Detection
+Real-Time Log Analytics & Anomaly Detection
 
 A Python and PySpark-based log analytics project that simulates server log generation, processes structured log data using Apache Spark, performs request and error analysis, detects unusual server activity using rule-based conditions, and provides an interactive Streamlit dashboard.
 
