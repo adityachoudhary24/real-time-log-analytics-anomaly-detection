@@ -1,0 +1,56 @@
+endpoint,ip_address,response_time_ms,status_code,timestamp,anomaly_reason
+/products,192.168.1.191,1314,500,2026-09-29 17:10:39,Slow response + Server error
+/contact,192.168.1.71,1479,201,2026-09-29 17:10:40,Slow response
+/checkout,192.168.1.78,1250,200,2026-09-29 17:10:40,Slow response
+/,192.168.1.120,1292,200,2026-09-29 17:10:40,Slow response
+/checkout,192.168.1.18,1138,201,2026-09-29 17:10:40,Slow response
+/checkout,192.168.1.249,1323,200,2026-09-29 17:10:40,Slow response
+/login,192.168.1.220,1306,200,2026-09-29 17:10:40,Slow response
+/products,192.168.1.226,474,500,2026-09-29 17:10:40,Server error
+/contact,192.168.1.139,907,500,2026-09-29 17:10:40,Server error
+/contact,192.168.1.86,1469,400,2026-09-29 17:10:41,Slow response
+/login,192.168.1.92,1337,200,2026-09-29 17:10:41,Slow response
+/contact,192.168.1.54,1176,400,2026-09-29 17:10:42,Slow response
+/checkout,192.168.1.221,844,500,2026-09-29 17:10:42,Server error
+/,192.168.1.60,1046,500,2026-09-29 17:10:42,Slow response + Server error
+/cart,192.168.1.1,1070,201,2026-09-29 17:10:42,Slow response
+/,192.168.1.44,1194,500,2026-09-29 17:10:43,Slow response + Server error
+/cart,192.168.1.186,1465,400,2026-09-29 17:10:43,Slow response
+/login,192.168.1.244,833,500,2026-09-29 17:10:43,Server error
+/products,192.168.1.206,1334,201,2026-09-29 17:10:43,Slow response
+/products,192.168.1.113,1169,404,2026-09-29 17:10:43,Slow response
+/login,192.168.1.195,1388,400,2026-09-29 17:10:43,Slow response
+/products,192.168.1.73,615,500,2026-09-29 17:10:43,Server error
+/products,192.168.1.200,1406,200,2026-09-29 17:10:43,Slow response
+/products,192.168.1.251,1330,200,2026-09-29 17:10:44,Slow response
+/products,192.168.1.177,1254,200,2026-09-29 17:10:44,Slow response
+/checkout,192.168.1.247,1433,400,2026-09-29 17:10:44,Slow response
+/contact,192.168.1.53,1436,200,2026-09-29 17:10:44,Slow response
+/login,192.168.1.238,750,500,2026-09-29 17:10:44,Server error
+/cart,192.168.1.224,1284,404,2026-09-29 17:10:45,Slow response
+/contact,192.168.1.168,418,500,2026-09-29 17:10:45,Server error
+/,192.168.1.190,422,500,2026-09-29 17:10:45,Server error
+/contact,192.168.1.212,1256,200,2026-09-29 17:10:45,Slow response
+/cart,192.168.1.191,1449,404,2026-09-29 17:10:45,Slow response
+/checkout,192.168.1.36,1132,201,2026-09-29 17:10:45,Slow response
+/cart,192.168.1.205,1265,201,2026-09-29 17:10:45,Slow response
+/,192.168.1.4,1277,400,2026-09-29 17:10:46,Slow response
+/checkout,192.168.1.20,1384,400,2026-09-29 17:10:46,Slow response
+/cart,192.168.1.58,1059,201,2026-09-29 17:10:46,Slow response
+/cart,192.168.1.218,473,500,2026-09-29 17:10:46,Server error
+/checkout,192.168.1.19,1386,200,2026-09-29 17:10:46,Slow response
+/login,192.168.1.162,1272,404,2026-09-29 17:10:46,Slow response
+/,192.168.1.168,1117,200,2026-09-29 17:10:47,Slow response
+/cart,192.168.1.90,1320,200,2026-09-29 17:10:47,Slow response
+/login,192.168.1.144,687,500,2026-09-29 17:10:47,Server error
+/checkout,192.168.1.39,1133,200,2026-09-29 17:10:47,Slow response
+/checkout,192.168.1.190,355,500,2026-09-29 17:10:47,Server error
+/cart,192.168.1.90,1252,404,2026-09-29 17:10:47,Slow response
+/cart,192.168.1.83,1294,400,2026-09-29 17:10:47,Slow response
+/products,192.168.1.89,1429,400,2026-09-29 17:10:48,Slow response
+/contact,192.168.1.205,1263,200,2026-09-29 17:10:48,Slow response
+/checkout,192.168.1.74,1429,500,2026-09-29 17:10:48,Slow response + Server error
+/products,192.168.1.211,1347,500,2026-09-29 17:10:48,Slow response + Server error
+/cart,192.168.1.140,1374,200,2026-09-29 17:10:48,Slow response
+/products,192.168.1.22,1100,404,2026-09-29 17:10:49,Slow response
+/cart,192.168.1.54,813,500,2026-09-29 17:10:49,Server error
